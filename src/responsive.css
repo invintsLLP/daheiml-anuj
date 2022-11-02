@@ -1,0 +1,1458 @@
+@media (max-width: 1800px){
+  .Dashboard_card{
+    padding: 28px;
+  }
+  .Start_btn a {
+    font-size: 19px;
+    padding: 9px 20px;
+  }
+  .teble_data_row {
+    flex-wrap: wrap;
+  }
+  .select_drop_margin {
+    margin-right: 15px;
+ }
+ .select_drop_1 .Select_drop_down .MuiFormControl-root{
+    min-width: 265px;
+  }
+  /* ---priyank-------- */
+  .Settingtabs_block_row {
+    justify-content: center;
+  }
+  .SettingCol_item {
+   width: 50%;
+  }
+  .history_teble_main .MuiTableCell-root.MuiTableCell-head {
+    width: 106px;
+  }
+}
+
+@media (max-width: 1700px){
+  .Dashboard_card_h3 {
+    font-size: 36px;
+  }
+  .Dashboard_card_6 .card_6_text {
+    font-size: 18px;
+  }
+  .Start_btn a {
+    font-size: 17px;
+    padding: 9px 17px;
+  }
+  .Dashboard_card {
+    padding: 20px;
+    border-radius: 25px;
+  } 
+  .select_drop_margin {
+    margin-bottom: 10px;
+  }
+  .wallbox_item {
+    padding: 20px;
+  }
+  .status_text_row > div h3 {
+    font-size: 35px;
+  }
+  .wallbox_item .delete_row > p {
+    font-size: 22px;
+  }
+  .wallbox_item > p {
+    font-size: 17px;
+    margin: 18px 0 20px 0;
+  }
+  .last_management_box {
+    padding: 25px;
+  }
+  .last_management_ul li:nth-child(1) p {
+    font-size: 17px;
+    margin-right: 10px;
+  }
+  .last_management_ul li:nth-child(1) span {
+    font-size: 20px;
+  }
+  .add_icon a {
+    width: 60px;
+    height: 60px;
+  }
+  .history_teble_main .MuiTableCell-root.MuiTableCell-head {
+    width: 125px;
+  }
+}
+
+@media (max-width: 1600px){
+  .select_flex .MuiFormControl-root{
+    min-width: 260px;
+  }
+  .select_flex .MuiSelect-select.MuiSelect-outlined {
+    padding: 18px 12px 18px 25px;
+  }
+  .select_flex h4 {
+    font-size: 21px;
+  }
+  .main_select_flex .refresh_icon a {
+    width: 60px;
+    height: 60px;
+  }
+  .Dashboard_card {
+    padding: 15px;
+    border-radius: 20px;
+    min-height: 220px;
+  }
+  .Dashboard_card_h3 {
+    font-size: 31px;
+  }
+  .Dashboard_card_6 .card_6_text {
+    font-size: 16px;
+  }
+  .hrs_set span {
+    font-size: 15px;
+  }
+  .last_updated p {
+    font-size: 20px;
+  }
+  .Start_btn a {
+    font-size: 15px;
+    padding: 9px 12px;
+  }
+  .Dashboard_card_3 .margintd p, .Dashboard_card_4 .Dashboard_card_kw + span, .Dashboard_card_5 > .margintd .Dashboard_card_h3 + p {
+    font-size: 15px;
+  }
+  .Dashboard_card_4 .Dashboard_card_h3 {
+    margin: 20px 0 30px 0;
+  }
+  .Dashboard_card_5 .margintd {
+    margin: 18px 0 30px 0;
+  }
+  .last_charge_error p:first-child span {
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  .last_charge_error p:last-child img {
+    margin-right: 5px;
+  }
+  .logo_wrapper {
+    padding: 45px 20px 70px 20px;
+  }
+  .Sidebar_menu li a {
+    padding: 20px 30px;
+    width: 290px;
+  }
+  .circle_icons .refresh_icon a{
+    width: 60px;
+    height: 60px;
+  }
+  .history_page .charging_station_p {
+    margin: 10px 0 30px 0;
+  }
+  .history_teble_main .MuiTableCell-root.MuiTableCell-head{
+    padding: 12px;
+    font-size: 15px;
+  }
+  .history_teble_main .MuiTableCell-root.MuiTableCell-body {
+    padding: 25px 12px;
+  }
+  .main_wrap_pages {
+    padding: 110px 30px 0 355px;
+  }
+  .last_management_ul {
+    flex-wrap: wrap;
+  }
+  .status_text_row > div h3 {
+    font-size: 30px;
+  }
+  .wallbox_item {
+    padding: 15px;
+  }
+  .status_text_row > div span {
+    font-size: 14px;
+  }
+  .last_management_ul li:nth-child(2) input{
+    min-width: 0;
+  }
+  .last_management_ul li:nth-child(1) p {
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  .last_management_ul li:nth-child(1) span {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 1440px){
+  .logo_wrapper a{
+    display: flex;
+    justify-content: center;
+  }
+  .logo_wrapper a img{
+    width: 88%;
+  }
+  .logo_wrapper {
+    padding: 45px 0px 60px 0px;
+  }
+  .Sidebar_menu li a {
+    padding: 17px 20px;
+    width: 270px;
+  }
+  .main_wrap_pages {
+    padding: 110px 15px 0 335px;
+  }
+  .select_flex .MuiFormControl-root {
+    min-width: 240px;
+  }
+  .select_flex .MuiSelect-select.MuiSelect-outlined {
+    padding: 12px 10px 12px 20px;
+    font-size: 17px;
+  }
+  .select_flex .MuiFormControl-root::before {
+    right: 15px;
+    top: 29%;
+  }
+  .select_flex h4 {
+    font-size: 20px;
+  }
+  .main_select_flex .refresh_icon a {
+    width: 50px;
+    height: 50px;
+  }
+  .Dashboard_cards_row {
+    flex-wrap: wrap;
+  }
+  .Dashboard_item {
+    width: 50%;
+  }
+  .stop_charging_btn {
+    margin: 30px 0;
+  }
+  .Status_span {
+    font-size: 17px;
+  }
+  .charging_station_p {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  .select_flex h4 {
+    margin-right: 10px;
+  }
+  .select_drop_1 .Select_drop_down .MuiFormControl-root {
+    min-width: 245px;
+  }
+  .history_teble_main .MuiTableCell-root.MuiTableCell-head {
+    width: unset;
+    min-width: 120px;
+  }
+  .history_page .charging_station_p {
+    margin: 5px 0 20px 0;
+  }
+  .select_drop_margin {
+    margin-bottom: 0px;
+  }
+  .login_data_block form .inputs input {
+    font-size: 18px;
+  }
+  .wallbox_width {
+    width: 50%;
+  }
+  .wallbox_item {
+    padding: 20px;
+  }
+  .last_management_ul li{
+    margin: 10px;
+  }
+  .add_item_box h5 {
+    font-size: 20px;
+  }
+  .add_item_box {
+    border-radius: 30px;
+    padding: 35px;
+  }
+  .chart_row > .charts .chart_item {
+    width: 100%;
+  }
+  /* ----------------priyank----------------------- */
+  .Settingtabs_block {
+    margin-top: 25px;
+  }
+  .SettingCol_item {
+    width: 100%;
+  }
+  .Setting_card {
+    padding: 30px 30px;
+    margin-bottom: 25px;
+    min-height: unset;
+  }
+  
+  .Authorized_card {
+    padding: 30px 30px;
+    min-height:250px;
+  }
+  .test_card_bolck>li {
+    min-height: unset;
+    padding: 18px 18px;
+    margin-bottom: 15px;
+    align-items: flex-start;
+  }
+  .test_card_right {
+    margin-right: unset;
+  }
+  .big_round_btn {
+    width: 50px;
+    height: 50px;
+  }
+  .testab .user_info {
+    font-size: 16px;
+    width: 160px;
+    line-height: 1.4;
+    padding: 0 16px;
+  }
+  .yesicon {
+    width: 20px;
+    height: 20px;
+  }
+  .test_card_left .testab:first-child {
+    margin-right: 20px;
+  }
+  .testab label {
+    font-size: 14px;
+    line-height: 1.5;
+    padding-left: 12px;
+  }
+  .test_card_bolck {
+    margin-top: 20px;
+  }
+  
+  .paneledit_block {
+    margin-top: 25px;
+  }
+  .addtabs p {
+    font-size: 16px;
+  }
+  .addtabs {
+    margin-top: 12px;
+  }
+  .heading_AccountSettingsPage_section_1 {
+    margin-bottom: 20px;
+  }
+  .heading_AccountSettingsPage_section_1 h3 {
+    font-size: 21px;
+  }
+  .language_block {
+    margin-top: 22px;
+  }
+
+  .btn-part-1 .btn_wrapper:nth-child(1) {
+    margin-right: 10px;
+  }
+
+  .btn-part-1 .btn_wrapper:nth-child(2) {
+   margin-right: 15px;
+  }
+}
+
+@media (max-width: 1280px){
+  .select_flex .MuiFormControl-root {
+    min-width: 210px;
+  }
+  .select_drop_1 .Select_drop_down .MuiFormControl-root {
+    min-width: 210px;
+  }
+  .login_data_block form {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 1199px){
+  .Sidebar_menu li a {
+    padding: 17px 16px;
+    width: 260px;
+  }
+  .main_wrap_pages {
+    padding: 110px 15px 0 325px;
+  }
+  .main_fixed_img {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .main_fixed_img img{
+    width: 80%;
+  }
+  .select_flex .MuiFormControl-root{
+    min-width: 170px;
+  }
+  .select_drop_margin {
+    margin-right: 10px;
+  }
+  .select_drop_1 .Select_drop_down .MuiFormControl-root {
+    min-width: 122px;
+  }
+  .login_data_block form {
+    padding: 13px;
+  }
+  .solar_charging_box {
+    border-radius: 25px;
+    padding: 20px;
+  }
+  .login_data_block form .inputs input {
+    font-size: 15px;
+    padding: 7px 12px;
+  }
+  .login_data_block form .inputs label {
+    font-size: 14px;
+  }
+  .charging_station_block .select_flex {
+    margin: 10px 0 10px 0;
+  }
+  .Slider_block .MuiSlider-markLabel {
+    left: 90% !important;
+    margin-top: 10px;
+  }
+  .save_button {
+    margin-top: 20px;
+  }
+  .last_management_ul li:nth-child(2) input {
+    font-size: 18px;
+  }
+  .status_text_row > div h3 {
+    font-size: 27px;
+  }
+  .wallbox_item > p {
+    font-size: 16px;
+  }
+  .chart_row > .charts p {
+    font-size: 19px;
+  }
+  /* -------priyank------------------------- */
+  .Setting_card {
+    padding: 25px 25px;
+  }
+  .setting_head {
+    font-size: 16px;
+  }
+  .timer_block {
+    margin-top: 15px;
+  }
+  .timer_Start_tab {
+    font-size: 16px;
+    line-height: 1.2;
+  }
+  .timer_Start_tab svg {
+    margin-left: 10px;
+    width: 20px;
+  }
+  .label {
+    font-size: 14px;
+    line-height: 1.3;
+    padding-left: 12px;
+  }
+  .addtimer p {
+    font-size: 15px;
+    line-height: 1.4;
+    padding-left: 10px;
+  }
+  .limit_maper_block .MuiSlider-markLabel {
+    font-size: 14px;
+    line-height:1;
+    top: 40px;
+  }
+  .result {
+    font-size: 16px;
+    line-height: 1.3;
+    margin-top: 8px;
+    margin-bottom: 10px;
+  }
+  .savebtn_block {
+    padding-top: 15px;
+  }
+  .paneledit_block {
+    margin-top: 20px;
+    margin-bottom: 6px;
+  }
+  .edittab .price_charging {
+    font-size: 18px;
+    width:228px;
+    line-height: 1.4;
+  }
+  .Authorized_card {
+    padding: 25px 25px;
+  }
+  .big_round_btn , .remove_btn {
+    width: 36px;
+    height: 36px;
+  }
+  .yesicon , .editicon , .stopicon , .addicon {
+    width: 20px;
+    height: 20px;
+  }
+  .testab .user_info {
+    width: 140px;
+    font-size: 14px;
+    line-height: 1;
+  }
+  .test_card_left .testab:first-child {
+    margin-right: 15px;
+  }
+  .test_card_bolck>li {
+    padding: 16px 16px;
+    margin-bottom: 12px;
+  }
+  .addtabs p {
+    font-size: 16px;
+    padding-left: 0px;
+  }
+  .addtabs {
+    margin-top: 10px;
+  }
+  .save_Authorized {
+    margin-top: 15px;
+  }
+  .SettingsPage_section_2 {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 991px){
+  .logo_wrapper a img {
+    width: 81%;
+  }
+  .header_logo svg {
+    width: 40px;
+    height: 40px;
+  }
+  .header_logo{
+    display: flex;
+    align-items: center;
+  }
+  .Sidebar_menu li a {
+    padding: 16px 16px;
+    width: 250px;
+  }
+  .main_wrap_pages {
+    padding: 95px 15px 0 310px;
+  }
+  .logo_wrapper {
+    padding: 45px 0px 50px 0px;
+  }
+  .main_fixed_img img{
+    width: 70%;
+  }
+  .select_flex .MuiFormControl-root{
+    min-width: 185px;
+  }
+  .select_flex .MuiSelect-select.MuiSelect-outlined {
+    padding: 13px 10px 13px 15px;
+    font-size: 16px;
+  }
+  .select_flex h4 {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .charging_station_p {
+    font-size: 19px;
+  }
+  .main_wrap_pages {
+    padding: 130px 15px 0 15px;
+  }
+  .logo_header_center {
+    display: block;
+  }
+  .header {
+    padding: 50px 20px 10px 20px;
+    border-radius: 0px 0px 30px 30px;
+  }
+  .mobil_X_btn{
+    display: block;
+    margin: 60px 0 0 20px;
+  }
+  /* ********* */
+  .Sidebar_icon_block {
+    left: -350px;
+    transition: all 0.4s ease;
+  }
+  .open .Sidebar_icon_block {
+      left: 0;
+  }
+  .hamburger_icon {
+    width: 20px;
+    height: 17px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .hamburger_icon span {
+    background-color: #fff;
+    border-radius: 2px;
+    -webkit-transition: .3s cubic-bezier(.8,.5,.2,1.4);
+    transition: .3s cubic-bezier(.8,.5,.2,1.4);
+    width: 100%;
+    height: 2px;
+    display: block;
+    margin-bottom: 6px;
+  }
+  .hamburger_icon span:nth-child(1) {
+    width: 100%;
+  }
+  .hamburger_icon span:nth-child(2) {
+    width: 60%;
+
+  }
+  .hamburger_icon span:nth-child(3) {
+    width: 100%;
+  }
+
+  .hamburger_icon:hover:not(.open) span:nth-child(1) {
+    transform: translateY(13px) rotate(45deg);
+  }
+  .hamburger_icon:hover:not(.open) span:nth-child(2) {
+     opacity: 0;
+  }
+  .hamburger_icon:hover:not(.open) span:nth-child(3) {
+    transform: translateY(-3px) rotate(-45deg);
+  }
+  .logo_wrapper{
+    display: none;
+  }
+  .logo_wrapper_mobil{
+    display: block;
+    margin: 18px 0 40px 0;
+    text-align: center;
+  }
+  .Sidebar_menu li a {
+    width: 300px;
+    padding: 15px 30px;
+  }
+  .select_drop_1 .Select_drop_down .MuiFormControl-root {
+    min-width: 185px;
+  } 
+  .circle_icons .refresh_icon a {
+    width: 50px;
+    height: 50px;
+  }
+  .add_item_box h5 {
+    font-size: 18px;
+  }
+  /* -------------priyank------------------------- */
+  .language_block {
+    margin-top: 15px;
+  }
+  .AccountSettingsPage_section_1 .test_card_bolck>li {
+    align-items: baseline;
+ 
+  }
+}
+
+@media (max-width: 767px){
+  .select_drop_h6 h6{
+   width: 80px;
+  }
+  .history_page .charging_station_p {
+    margin: 15px 0 20px 0;
+  }
+  .Sidebar_menu li a {
+    width: 270px;
+    padding: 12px 25px;
+  }
+  .Dashboard_item {
+    width: 100%;
+  }
+  .select_flex {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .last_charge_error p:first-child span {
+    font-size: 19px;
+  }
+  .Status_span {
+    font-size: 15px;
+  }
+  .Dashboard_card_3 .margintd p, .Dashboard_card_4 .Dashboard_card_kw + span, .Dashboard_card_5 > .margintd .Dashboard_card_h3 + p {
+    font-size: 14px;
+  }
+  .teble_data_row .select_flex {
+    margin-bottom: 0px;
+  }
+  .solar_charging_row {
+    flex-wrap: wrap;
+  }
+  .login_data_block {
+    width: 100%;
+  }
+  .charging_station_block {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .Slider_block .MuiSlider-markLabel {
+    left: 96% !important;
+  }
+  .status_text_row > div h3 {
+    font-size: 24px;
+  }
+  .wallbox_item .delete_row > p {
+    font-size: 20px;
+  }
+  .wallbox_item > p {
+    font-size: 15px;
+    margin: 15px 0 15px 0;
+  }
+  .delete_row p {
+    font-size: 20px;
+  }
+  .last_management_ul li:nth-child(1) p {
+    font-size: 15px;
+  }
+  .last_management_ul li:nth-child(1) span {
+    font-size: 18px;
+  }
+  .last_management_ul li:nth-child(2) input {
+    font-size: 17px;
+  }
+  .last_management_ul li:nth-child(2) p {
+    font-size: 15px;
+  }
+  .last_management_ul li:nth-child(3) p {
+    font-size: 17px;
+  }
+  .add_item_box {
+    border-radius: 25px;
+    padding: 30px;
+  }
+  .add_item_box h5 {
+    font-size: 16px;
+  }
+  .charts .chart_Line, .charts .chart_bar {
+    margin: 20px 0;
+    border-radius: 25px;
+    padding: 20px;
+  }
+    /* ========-----priyank---------------- */
+  .Settingtabs_block {
+    margin-top: 20px;
+  }
+  .Setting_card {
+    padding: 20px 20px;
+    margin-bottom: 20px;
+  }
+  .test_card_bolck>li  {
+    flex-direction: column;
+  }
+  .test_card_left, .test_card_right {
+    width: 100%;
+  }
+  .testab{
+    width: 50%;
+  }
+  .testab .user_info {
+    width: 95%;
+  }
+  .test_card_left .testab:first-child {
+    margin-right: unset;
+  }
+  .test_card_right{
+    margin-top: 15px;
+  }
+  .Setting_card , .Authorized_card {
+    border-radius: 25px;
+  }
+  .AccountSettingsPage_section_1 .test_card_bolck>li {
+    flex-direction: row;
+    align-items: baseline;
+  }
+  .AccountSettingsPage_section_1 .test_card_right {
+    margin-top:  unset;
+  }
+  .AccountSettingsPage_section_1 .test_card_left , .AccountSettingsPage_section_1 .test_card_right {
+    width: unset;
+  }
+  .AccountSettingsPage_section_1 .test_card_left .testab:first-child {
+    margin-right: 15px;
+  }
+  .AccountSettingsPage_section_1 .testab .user_info {
+    width: 190px;
+  }
+  .heading_AccountSettingsPage_section_1 h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 575px){
+  .addtabs .remove_btn{
+    justify-content: end;
+  }
+  .analytics_page .Select_drop_down{
+    margin-right: 0;
+  }
+  .main_wrap_pages .Dashboard_home_page:nth-child(3) .main_select_flex .select_flex .Select_drop_down{
+    margin-right: 0;
+  }
+  .Dashboard_card_4 .Status_flex:last-child {
+    flex-wrap: wrap;
+  }
+  .Start_btn{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .select_flex h4 {
+    font-size: 18px;
+    margin-right: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .main_select_flex {
+    align-items: end;
+  } 
+  .Dashboard_card {
+    padding: 20px;
+    border-radius: 25px;
+    min-height: unset;
+    margin-bottom: 20px;
+  }
+  .Dashboard_card_h3 {
+    font-size: 34px;
+  }
+  .charging_station_p {
+    margin-bottom: 20px;
+  }
+  .stop_charging_btn {
+    margin: 10px 0;
+  }
+  .Dashboard_card_6 .Status_span {
+    margin-bottom: 20px;
+  }
+  .circle_icons {
+    display: none;
+  }
+  .select_drop_3 {
+    flex-wrap: wrap;
+    width: 48%;
+  }
+  .select_drop_3 h6 {
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .history_page .charging_station_p {
+    margin: 30px 0 20px 0;
+  }
+  .refresh_icon_mobil {
+    display: block;
+    margin-left: 5px;
+  }
+  .refresh_icon_mobil .refresh_icon a{
+    width: 50px;
+    height: 50px;
+  }
+  .teble_data_row .select_flex {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .select_drop_2 .select_flex .MuiFormControl-root {
+    min-width: 240px;
+  }
+  .select_drop_1 .Select_drop_down .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .select_drop_1 .Select_drop_down {
+    width: 82%;
+  }
+  .select_drop_2 .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .select_drop_2 + .refresh_icon_mobil{
+    margin-left: 5px;
+  }
+  .select_drop_2.select_drop_margin {
+    width: 38%;
+  }
+  .select_drop_h6 {
+    display: flex;
+    flex-direction: column;
+    align-items: unset;
+    width: 100%;
+  }
+  .select_flex .select_drop_3 .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .select_drop_h6.select_drop_margin{
+    margin-right: 0px;
+  }
+  .history_teble_main{
+    display: none;
+  }
+  /* ******* teble_card_main css start ****** */
+  .teble_card_main{
+    display: block;
+  }
+  .history_page .charging_station_p {
+    margin: 0px 0 20px 0;
+  }
+  .teble_card{
+    background: #FFFFFF;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    padding: 20px 0;
+    margin: 20px 0;
+  }
+  .id_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .teble_card_p span{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+  .teble_card_p span:first-child{
+    color: #B3B3B3;
+  }
+  .teble_card_p span:last-child{
+    color: #646464;
+  }
+  .id_flex h6{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #298D74;
+  }
+  .teble_card_padding{
+    padding: 0 20px;
+  }
+  .teble_card_padding > p{
+    margin: 10px 0;
+  }
+  .kwh_main{
+    background: #F4F9F8;
+    padding: 10px 20px;
+    width: 100%;
+    display: flex;
+  }
+  .kwh_main .kwh_text{
+    width: 50%;
+  }
+  .kwh_main .kwh_text h4{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 1.3;
+    color: #646464;
+  }
+  .kwh_main .kwh_text p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #B3B3B3;
+  }
+  .kwh_main .kwh_text span{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #646464;
+  }
+  .kwh_text > div{
+    margin-top: 16px;
+  }
+  .teble_card .teble_card_padding:last-child .id_flex h6{
+    color:#1C1C1C;
+  }
+  .card_number{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .card_number_arrow {
+    display: flex;
+    align-items: center;
+    margin-left: 4px;
+  }
+  .card_number_arrow a{
+    display: flex;
+    align-items: center;
+  }
+  .select_drop_margin.select_drop_1 {
+    margin-right: 0px;
+  }
+  .card_number >p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1;
+    color: #1C1C1C;
+  }
+  /* ******* teble_card_main css End ****** */
+  .Slider_block .MuiSlider-markLabel{
+    left: 94% !important;
+  }
+  .last_management_ul li:nth-child(4){
+    width: 100%;
+    justify-content: center;
+    display: flex;
+  }
+  .last_management_ul{
+    margin-top: 15px;
+  }
+  .wallbox_width {
+    width: 100%;
+  }
+  .add_item_box ul li a {
+    font-size: 18px;
+  }
+  .add_item_box h5 {
+    font-size: 15px;
+  }
+  .add_item_box {
+    border-radius: 20px;
+    padding: 25px;
+  }
+  .analytics_page .select_flex{
+    margin-bottom: 15px;
+  }
+  .chart_row > .charts p {
+    font-size: 17px;
+  }
+  /* --------priyank-------------- */
+  .timer_block .timeStart:first-child {
+    margin-right: 12px;
+  }
+  .timer_Start_tab {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+  .addtimer p {
+    font-size: 16px;
+  }
+  .Setting_card , .Authorized_card{
+    border-radius: 25px;
+    padding: 20px ;
+  }
+  .stop_btn_block, .addbtn_block {
+    margin-left: auto;
+    margin-right: unset;
+    padding-top: 3px;
+  }
+  .addtabs {
+    margin-top: 20px;
+    justify-content: space-between;
+    padding-bottom: 10px;
+  }
+  .addtabs .remove_btn {
+    margin-left: 8px;
+  }
+  .timer_Start_tab svg {
+    margin-left: 5px;
+  }
+  .timer_block .timeStart:first-child {
+    margin-right: 8px;
+  }
+  .timer_Start_tab {
+    font-size: 18px;
+  }
+  .AccountSettingsPage_section_1 .test_card_left, .AccountSettingsPage_section_1 .test_card_right {
+    width:100%;
+  }
+  .AccountSettingsPage_section_1 .testab .user_info {
+    width: 100%;
+  }
+  .AccountSettingsPage_section_1 .test_card_bolck>li {
+    flex-direction: column;
+    align-items: baseline;
+  }
+  .AccountSettingsPage_section_1 .test_card_left .testab:first-child {
+    margin-right: unset;
+  }
+  .heading_AccountSettingsPage_section_1 {
+    margin-bottom: 18px;
+  }
+  .AccountSettingsPage_section_1  .save_Authorized {
+    margin-top: 20px;
+  }
+  .heading_AccountSettingsPage_section_1 h3 {
+    font-size: 18px;
+  }
+  .AccountSettingsPage_section_1 .test_card_bolck {
+    margin-top: 16px;
+  }
+  .select_flex .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .SettingsPage_section_1  .main_select_flex , .SettingsPage_section_1  .select_flex {
+  display: block;
+  }
+  .select_flex .MuiSelect-select.MuiSelect-outlined {
+    padding: 15px 10px 15px 20px;
+  }
+  .SettingsPage_section_1 .Settingtabs_block {
+    margin-top: 30px;
+  }
+  .setting_head_text {
+    font-size: 12px;
+  }
+  .test_card_bolck>li {
+    padding: 20px 15px;
+    margin-bottom: 20px;
+  } 
+  .testab label {
+    font-size: 16px;
+    line-height: 1.2;
+    padding-left: 12px;
+  }
+  .btn-part-1 .big_round_btn, .btn-part-1 .remove_btn {
+    width: 55px;
+    height: 55px;
+  }
+  .test_card_right {
+    margin-top: 20px;
+    justify-content: space-between;
+  }
+  .yesicon, .editicon, .stopicon, .addicon {
+    width: 24px;
+    height: 24px;
+  }
+  .test_card_left{
+    flex-direction: column;
+  }
+  .testab {
+    width: 100%;
+  }
+  .testab .user_info {
+     width: 100%;
+     font-size: 18px;
+  }
+  .test_card_left .testab:first-child {
+   margin-bottom: 16px;
+  }
+  .AccountSettingsPage_section_1 .btn-part-2{
+    margin-left: auto;
+  }
+  .language_block {
+    margin-top: 8px;
+  }
+  .Select_drop_down{
+    width: 100%;
+    margin-right: 20px;
+  }
+  .charging_station_block .Select_drop_down{
+    margin-right: 0px;
+  }
+  .language_block .Select_drop_down{
+    margin-right: 0px;
+  }
+  .select_drop_3.Select_drop_down{
+    width: 45%;
+  }
+  .Slider_block .MuiSlider-colorPrimary span:nth-child(6).MuiSlider-markLabel {
+    left: 94% !important;
+    margin-left: unset !important;
+  }
+}
+
+@media (max-width: 450px){
+  .select_drop_1 .Select_drop_down {
+    width: 79%;
+  }
+  .select_drop_2.select_drop_margin {
+    width: 37%;
+  }
+  .select_drop_3.Select_drop_down {
+    width: 44%;
+  }
+  .teble_data_row .select_flex {
+    margin-bottom: 10px;
+  }
+  .select_drop_h6 h6 {
+    font-size: 17px;
+  }
+  .kwh_main .kwh_text h4 {
+    font-size: 32px;
+  }
+  .teble_card_p span{
+    font-size: 15px;
+  }
+  .pv_surplus_charging_P {
+    font-size: 17px;
+  }
+  .savebtn {
+    padding: 10px 24px;
+    font-size: 19px;
+  }
+  .delete_row p {
+    font-size: 18px;
+  }
+  .last_management_ul li:nth-child(1) p {
+    font-size: 14px;
+  }
+  .last_management_ul li:nth-child(1) span {
+    font-size: 17px;
+  }
+  .last_management_ul li:nth-child(2) p {
+    font-size: 14px;
+  }
+  .last_management_box {
+    padding: 20px;
+  }
+  .charts .chart_Line, .charts .chart_bar {
+    margin: 15px 0;
+  }
+  .chart_row > .charts p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 400px){
+  .Sidebar_icon_block {
+    border-radius: 0px;
+    width: 100%;
+  }
+  .Sidebar_icon_block {
+    left: -460px;
+  }
+  .Sidebar_menu li a {
+    width: 100%;
+    padding: 15px 30px;
+  }
+  .cm_overflow .html_shadow{
+    display: none;
+  }
+  .charging_station_p {
+    font-size: 18px;
+  }
+  .refresh_icon_mobil .refresh_icon a {
+    width: 45px;
+    height: 45px;
+  }
+  .select_flex .select_drop_2 .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .select_flex .select_drop_3 .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .select_drop_3 {
+    width: 48%;
+  } 
+  .Slider_block .MuiSlider-markLabel {
+    left: 92% !important;
+  }
+  .pv_surplus_charging_P {
+    margin-bottom: 15px;
+  }
+  .add_icon a {
+    width: 50px;
+    height: 50px;
+  }
+  .wallbox_item .delete_row > p {
+    font-size: 18px;
+  }
+  .last_management_box ,.wallbox_item{
+    border-radius: 25px;
+  }
+  .select_drop_2.select_drop_margin {
+    width: 36%;
+  }
+  .Slider_block .MuiSlider-colorPrimary span:nth-child(6).MuiSlider-markLabel {
+    left: 91% !important;
+    margin-left: unset !important;
+  }
+}
+
+@media (max-width: 367px){
+  .header {
+    padding: 30px 20px 10px 20px;
+  }
+  .main_wrap_pages {
+    padding: 105px 15px 0 15px;
+  }
+  .select_flex .MuiSelect-select.MuiSelect-outlined{
+    padding: 10px 10px 10px 15px;
+    font-size: 15px;
+  }
+  .select_flex .MuiFormControl-root::before {
+    right: 10px;
+    top: 25%;
+  }
+  .Dashboard_card_h3 {
+    font-size: 31px;
+  }
+  .Dashboard_card_1 .Dashboard_card_h3 {
+    margin: 15px 0 20px 0;
+  }
+  .last_charge_error p:first-child span {
+    font-size: 18px;  
+  }
+  .Dashboard_card {
+    padding: 15px;
+    border-radius: 15px;
+  }
+  .charging_station_p {
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .last_updated p {
+    font-size: 18px;
+  }
+  .Dashboard_card_6 .Status_flex{
+    flex-wrap: wrap;
+  }
+  .Dashboard_card_6 .hrs_set_main {
+    margin-top: 10px;
+  }
+  .mobil_X_btn {
+    display: block;
+    margin: 40px 0 0 20px;
+  }
+  .logo_wrapper_mobil {
+    margin: 10px 0 20px 0;
+  }
+  .teble_data_row .select_flex {
+    margin-bottom: 15px;
+  }
+  .select_drop_1 .Select_drop_down {
+    width: 79%;
+  }
+  .select_drop_2.select_drop_margin {
+    width: 37.9%;
+  }
+  .kwh_main .kwh_text h4 {
+    font-size: 28px;
+  }
+  .kwh_main .kwh_text p {
+    font-size: 14px;
+  }
+  .teble_card_p span {
+    font-size: 14px;
+  }
+  .id_flex h6 {
+    font-size: 15px;
+  }
+  .main_select_flex .refresh_icon a {
+    width: 45px;
+    height: 45px;
+  }
+  .login_data_block form .inputs label {
+    margin-left: 13px;
+  }
+  .sem_text_p {
+    font-size: 15px;
+  }
+  .Slider_block .MuiSlider-markLabel {
+    font-size: 15px;
+  }
+  .solar_charging_box {
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 25px;
+  }
+  .charging_station_block .select_flex {
+    margin: 0px 0 10px 0;
+  }
+  .pv_surplus_charging_P {
+    font-size: 16px;
+  }
+  .last_management_ul li:nth-child(1) {
+    flex-wrap: wrap;
+  }
+  .last_management_ul li:nth-child(1) span {
+   width: 100%;
+  }
+  .last_management_box {
+    padding: 15px;
+  }
+  .delete_row p {
+    font-size: 16px;
+  }
+  .delete_row a {
+    width: 30px;
+    height: 30px;
+  }
+  .last_management_ul li:nth-child(3) p {
+    font-size: 16px;
+  }
+  .savebtn {
+    padding: 9px 22px;
+    font-size: 18px;
+  }
+  .last_management_ul li {
+    margin: 10px 0;
+  }
+  .add_item_box {
+    border-radius: 15px;
+    padding: 15px;
+  }
+  .add_item_box h5 {
+    max-width: 240px;
+  }
+  .add_item_box .select_flex {
+    margin: 30px 0 5px 0;
+  }
+  .analytics_page .select_flex .Select_drop_down{
+    width: 100%;
+  }
+  .analytics_page .select_flex .MuiFormControl-root {
+    min-width: 100%;
+  }
+  .charts .chart_Line, .charts .chart_bar {
+    padding: 15px;
+  }
+  .chart_row > .charts p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  /* --------priyank---------------- */
+  .timer_Start_tab {
+    font-size: 14px;
+    padding: 5px 10px 5px 10px;
+}
+  .timer_Start_tab svg {
+    width: 16px;
+  }
+  .addtimer p {
+    font-size: 14px;
+  }
+  .yesicon, .editicon, .stopicon, .addicon {
+    width: 20px;
+    height: 20px;
+  }
+  .Setting_card, .Authorized_card {
+    border-radius: 20px;
+    padding: 15px;
+  }
+  .stop_btn_block, .addbtn_block {
+    padding-top: unset;
+  }
+  .savebtn{
+  padding: 8px 20px;
+  font-size: 16px;
+  }
+  .edittab label {
+    font-size: 14px;
+  }
+  .edittab .price_charging {
+    font-size: 16px;
+    width: 190px;
+  }
+  .testab label {
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  .btn-part-1 .big_round_btn{
+    width: 45px;
+    height: 45px;
+  }
+  .addtabs p {
+    font-size: 14px;
+  }
+  .testab .user_info {
+    font-size: 16px;
+  }
+  .Start_btn a {
+    font-size: 16px;
+    padding: 10px 30px;
+  }
+  .Select_drop_down {
+    margin-right: 10px;
+  }
+  .select_drop_3.Select_drop_down {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .Slider_block .MuiSlider-colorPrimary span:nth-child(6).MuiSlider-markLabel {
+    left: 90% !important;
+    margin-left: unset !important;
+  }
+}
+
+  
