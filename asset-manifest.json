@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daheiml-anuj/static/css/main.c46d6571.css",
+    "main.js": "/daheiml-anuj/static/js/main.95fade3c.js",
+    "static/media/bg-fixed-img.png": "/daheiml-anuj/static/media/bg-fixed-img.7b02c87e87092bbcf8a9.png",
+    "static/media/sidebar_bg.png": "/daheiml-anuj/static/media/sidebar_bg.b1907c0e91a456b8346f.png",
+    "index.html": "/daheiml-anuj/index.html",
+    "main.c46d6571.css.map": "/daheiml-anuj/static/css/main.c46d6571.css.map",
+    "main.95fade3c.js.map": "/daheiml-anuj/static/js/main.95fade3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c46d6571.css",
+    "static/js/main.95fade3c.js"
+  ]
+}
